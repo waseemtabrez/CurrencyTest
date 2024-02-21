@@ -1,0 +1,40 @@
+{
+  "baseCurrency": "USD",
+  "currencies": [
+    {
+      "country": "United States of America",
+      "code": "USD",
+      "name": "American Dollar",
+      "tradeValue": 1.0,
+      "flagURL": "https://flagsapi.com/US/flat/64.png"
+    },
+    {
+      "country": "Canada",
+      "code": "CAD",
+      "name": "Canadian Dollar",
+      "tradeValue": 1.35,
+      "flagURL": "https://flagsapi.com/CA/flat/64.png"
+    },
+    {
+      "country": "Mexico",
+      "code": "MXN",
+      "name": "Mexican Peso",
+      "tradeValue": 17.07,
+      "flagURL": "https://flagsapi.com/MX/flat/64.png"
+    },
+    {
+      "country": "Europe",
+      "code": "EUR",
+      "name": "Euro",
+      "tradeValue": 0.93,
+      "flagURL": ""
+    },
+    {
+      "country": "Argentina",
+      "code": "ARS",
+      "name": "Argentine Peso",
+      "tradeValue": 837.86,
+      "flagURL": "https://flagsapi.com/AR/flat/64.png"
+    }
+  ]
+}
